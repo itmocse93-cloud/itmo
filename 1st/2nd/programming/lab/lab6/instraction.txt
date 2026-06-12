@@ -1,0 +1,44 @@
+upload :scp -P 2222 -r proglab6 s470649@helios.se.ifmo.ru:~
+
+rmdir /s /q out
+
+>javac -d out -cp "lib/log4j-api-2.26.0.jar;lib/log4j-core-2.26.0.jar" src/server/Main.java src/server/*.java src/client/Main.java src/client/*.java src/client/commands/*.java src/common/*.java src/model/*.java src/collectionManager/*.java src/command/*.java src/util/*.java
+
+copy src\log4j2.xml out\
+
+java -cp "out;lib/log4j-api-2.26.0.jar;lib/log4j-core-2.26.0.jar" server.Main data.csv
+
+java -cp "out;lib/log4j-api-2.26.0.jar;lib/log4j-core-2.26.0.jar" client.Main 
+
+
+
+in helious :
+server:
+cd ~/proglab6
+rm -rf out
+mkdir out
+javac -d out -cp "lib/log4j-api-2.26.0.jar:lib/log4j-core-2.26.0.jar" \
+    src/server/Main.java \
+    src/server/*.java \
+    src/client/Main.java \
+    src/client/*.java \
+    src/client/commands/*.java \
+    src/command/*.java \
+    src/common/*.java \
+    src/model/*.java \
+    src/collectionManager/*.java \
+    src/util/LoggerConfig.java
+cp src/log4j2.xml out/
+echo "Main-Class: server.Main" > manifest.txt
+echo "Class-Path: lib/log4j-api-2.26.0.jar lib/log4j-core-2.26.0.jar" >> manifest.txt
+jar -cfm server.Main.jar manifest.txt -C out .
+java -jar server.Main.jar data.csv
+
+
+clint 
+
+cd ~/proglab6
+echo "Main-Class: client.Main" > manifest_client.txt
+echo "Class-Path: lib/log4j-api-2.26.0.jar lib/log4j-core-2.26.0.jar" >> manifest_client.txt
+jar -cfm client.jar manifest_client.txt -C out .
+java -jar client.jar
