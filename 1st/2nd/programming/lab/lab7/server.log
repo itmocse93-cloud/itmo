@@ -1,0 +1,279 @@
+2026-06-10 02:33:45.999 [INFO ] server.Main - Tables initialized.
+2026-06-10 02:33:46.100 [INFO ] server.Main - Loaded 0 products from DB.
+2026-06-10 02:33:46.111 [INFO ] server.Main - Server starting on port 12345...
+2026-06-10 02:33:46.114 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-10 02:34:53.050 [INFO ] server.Main - Tables initialized.
+2026-06-10 02:34:53.134 [INFO ] server.Main - Loaded 0 products from DB.
+2026-06-10 02:34:53.144 [INFO ] server.Main - Server starting on port 12345...
+2026-06-10 02:34:53.145 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-10 02:35:27.868 [INFO ] server.Main - Client connected: /127.0.0.1:61472
+2026-06-10 02:35:27.948 [WARN ] server.Main - Auth failed for user: jh
+2026-06-10 02:37:58.575 [INFO ] server.Main - Client connected: /127.0.0.1:59490
+2026-06-10 02:37:58.687 [INFO ] server.Main - New user registered: lubna
+2026-06-10 02:38:13.742 [INFO ] server.Main - Client connected: /127.0.0.1:54966
+2026-06-10 02:39:44.664 [INFO ] server.Main - Client connected: /127.0.0.1:55616
+2026-06-10 03:00:30.711 [INFO ] server.Main - Client connected: /127.0.0.1:56415
+2026-06-10 03:00:30.884 [WARN ] server.Main - Auth failed for user: lubna
+2026-06-10 03:00:43.877 [INFO ] server.Main - Client connected: /127.0.0.1:56422
+2026-06-10 03:01:09.737 [INFO ] server.Main - Client connected: /127.0.0.1:56464
+2026-06-10 03:01:09.796 [INFO ] server.Main - User logged in: lubna
+2026-06-10 03:01:19.532 [INFO ] server.Main - Client connected: /127.0.0.1:56466
+2026-06-10 03:05:24.715 [INFO ] server.Main - Client connected: /127.0.0.1:58636
+2026-06-10 03:05:24.826 [INFO ] server.Main - New user registered: Emon
+2026-06-10 03:05:34.056 [INFO ] server.Main - Client connected: /127.0.0.1:58640
+2026-06-10 03:05:53.115 [INFO ] server.Main - Client connected: /127.0.0.1:58642
+2026-06-10 03:06:25.760 [INFO ] server.Main - Client connected: /127.0.0.1:50173
+2026-06-10 03:06:44.573 [INFO ] server.Main - Client connected: /127.0.0.1:50183
+2026-06-10 03:09:14.091 [INFO ] server.Main - Client connected: /127.0.0.1:49305
+2026-06-11 16:10:35.397 [INFO ] server.Main - Tables initialized.
+2026-06-11 16:10:35.523 [INFO ] server.Main - Loaded 1 products from DB.
+2026-06-11 16:10:35.542 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 16:10:35.544 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 16:11:18.605 [INFO ] server.Main - Tables initialized.
+2026-06-11 16:11:18.682 [INFO ] server.Main - Loaded 1 products from DB.
+2026-06-11 16:11:18.694 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 16:11:18.697 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 16:11:40.386 [INFO ] server.Main - Client connected: /127.0.0.1:61517
+2026-06-11 16:11:40.511 [INFO ] server.Main - User logged in: lubna
+2026-06-11 16:11:45.095 [INFO ] server.Main - Client connected: /127.0.0.1:61519
+2026-06-11 16:11:57.830 [INFO ] server.Main - Client connected: /127.0.0.1:61523
+2026-06-11 16:12:27.428 [INFO ] server.Main - Client connected: /127.0.0.1:61554
+2026-06-11 16:58:39.372 [INFO ] server.Main - Tables initialized.
+2026-06-11 16:58:39.477 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 16:58:39.493 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 16:58:39.496 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 17:01:06.275 [INFO ] server.Main - Client connected: /127.0.0.1:56340
+2026-06-11 17:01:06.365 [INFO ] server.Main - User logged in: lubna
+2026-06-11 17:01:09.656 [INFO ] server.Main - Client connected: /127.0.0.1:56342
+2026-06-11 17:02:17.847 [INFO ] server.Main - Client connected: /127.0.0.1:56751
+2026-06-11 17:02:17.928 [WARN ] server.Main - Auth failed for user: emon
+2026-06-11 17:02:34.058 [INFO ] server.Main - Client connected: /127.0.0.1:56759
+2026-06-11 17:02:34.111 [WARN ] server.Main - Auth failed for user: emon
+2026-06-11 17:02:45.254 [INFO ] server.Main - Client connected: /127.0.0.1:56761
+2026-06-11 17:02:45.352 [INFO ] server.Main - New user registered: emon
+2026-06-11 17:02:51.161 [INFO ] server.Main - Client connected: /127.0.0.1:56764
+2026-06-11 17:03:00.154 [INFO ] server.Main - Client connected: /127.0.0.1:56770
+2026-06-11 17:04:47.744 [INFO ] server.Main - Client connected: /127.0.0.1:51471
+2026-06-11 17:05:07.518 [INFO ] server.Main - Client connected: /127.0.0.1:51473
+2026-06-11 21:01:18.900 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:01:19.000 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 21:01:19.015 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:01:19.017 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:02:10.099 [INFO ] server.Main - Client connected: /127.0.0.1:51867
+2026-06-11 21:02:10.208 [INFO ] server.Main - User logged in: lubna
+2026-06-11 21:04:22.969 [INFO ] server.Main - Client connected: /127.0.0.1:52198
+2026-06-11 21:04:23.044 [INFO ] server.Main - Client connected: /127.0.0.1:52200
+2026-06-11 21:05:53.208 [INFO ] server.Main - Client connected: /127.0.0.1:64945
+2026-06-11 21:05:53.282 [INFO ] server.Main - Client connected: /127.0.0.1:64947
+2026-06-11 21:06:43.197 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:06:43.274 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 21:06:43.282 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:06:43.284 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:07:17.464 [INFO ] server.Main - Client connected: /127.0.0.1:54193
+2026-06-11 21:07:17.565 [INFO ] server.Main - Client connected: /127.0.0.1:54195
+2026-06-11 21:07:17.640 [INFO ] server.Main - Client connected: /127.0.0.1:54197
+2026-06-11 21:23:25.107 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:23:25.196 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 21:23:25.207 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:23:25.209 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:24:21.388 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:24:21.463 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 21:24:21.473 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:24:21.476 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:24:53.213 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:24:53.311 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 21:24:53.322 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:24:53.325 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:25:13.813 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:25:13.915 [INFO ] server.Main - Loaded 2 products from DB.
+2026-06-11 21:25:13.925 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:25:13.927 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:25:58.719 [INFO ] server.Main - Client connected: /127.0.0.1:51159
+2026-06-11 21:26:40.772 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:26:40.847 [INFO ] server.Main - Loaded 3 products from DB.
+2026-06-11 21:26:40.855 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:26:40.859 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:26:51.008 [INFO ] server.Main - Client connected: /127.0.0.1:65493
+2026-06-11 21:27:15.513 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:27:15.590 [INFO ] server.Main - Loaded 3 products from DB.
+2026-06-11 21:27:15.599 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:27:15.601 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:27:22.387 [INFO ] server.Main - Client connected: /127.0.0.1:65504
+2026-06-11 21:27:48.075 [INFO ] server.Main - Client connected: /127.0.0.1:65530
+2026-06-11 21:28:21.764 [INFO ] server.Main - Client connected: /127.0.0.1:62961
+2026-06-11 21:28:30.259 [INFO ] server.Main - Client connected: /127.0.0.1:60474
+2026-06-11 21:29:01.430 [INFO ] server.Main - Client connected: /127.0.0.1:60478
+2026-06-11 21:29:06.708 [INFO ] server.Main - Client connected: /127.0.0.1:60482
+2026-06-11 21:29:19.688 [INFO ] server.Main - Client connected: /127.0.0.1:60484
+2026-06-11 21:29:42.504 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:29:42.602 [INFO ] server.Main - Loaded 4 products from DB.
+2026-06-11 21:29:42.613 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:29:42.615 [FATAL] server.Main - Server fatal error: Address already in use: bind
+2026-06-11 21:33:14.208 [INFO ] server.Main - Client connected: /127.0.0.1:49698
+2026-06-11 21:33:14.278 [WARN ] server.Main - Auth failed for user: lubna
+2026-06-11 21:34:52.513 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:34:52.587 [INFO ] server.Main - Loaded 4 products from DB.
+2026-06-11 21:34:52.597 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:34:52.599 [FATAL] server.Main - Server fatal error: Address already in use: bind
+2026-06-11 21:37:03.518 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:37:03.598 [INFO ] server.Main - Loaded 4 products from DB.
+2026-06-11 21:37:03.611 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:37:03.614 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:37:37.323 [INFO ] server.Main - Client connected: /127.0.0.1:62318
+2026-06-11 21:37:37.421 [INFO ] server.Main - User logged in: lubna
+2026-06-11 21:40:51.142 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:40:51.243 [INFO ] server.Main - Loaded 4 products from DB.
+2026-06-11 21:40:51.255 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:40:51.257 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:41:08.797 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:41:08.902 [INFO ] server.Main - Loaded 4 products from DB.
+2026-06-11 21:41:08.914 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:41:08.917 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:41:42.433 [INFO ] server.Main - Client connected: /127.0.0.1:53731
+2026-06-11 21:41:57.765 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:41:57.855 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-11 21:41:57.866 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:41:57.868 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:42:18.612 [INFO ] server.Main - Client connected: /127.0.0.1:53750
+2026-06-11 21:42:18.720 [INFO ] server.Main - User logged in: lubna
+2026-06-11 21:42:51.521 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:42:51.622 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-11 21:42:51.633 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:42:51.635 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:43:25.248 [INFO ] server.Main - Client connected: /127.0.0.1:59298
+2026-06-11 21:43:25.344 [INFO ] server.Main - User logged in: lubna
+2026-06-11 21:43:50.966 [INFO ] server.Main - Client connected: /127.0.0.1:59300
+2026-06-11 21:44:53.669 [INFO ] server.Main - Client connected: /127.0.0.1:62339
+2026-06-11 21:56:30.133 [INFO ] server.Main - Tables initialized.
+2026-06-11 21:56:30.206 [INFO ] server.Main - Loaded 6 products from DB.
+2026-06-11 21:56:30.215 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 21:56:30.217 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 21:57:03.458 [INFO ] server.Main - Client connected: /127.0.0.1:50620
+2026-06-11 21:57:03.553 [INFO ] server.Main - User logged in: lubna
+2026-06-11 21:58:33.383 [INFO ] server.Main - Client connected: /127.0.0.1:62124
+2026-06-11 21:58:33.553 [INFO ] server.Main - User logged in: lubna
+2026-06-11 22:10:19.826 [INFO ] server.Main - Client connected: /127.0.0.1:63991
+2026-06-11 22:10:19.934 [INFO ] server.Main - New user registered: lubna2
+2026-06-11 22:21:17.489 [INFO ] server.Main - Client connected: /127.0.0.1:55915
+2026-06-11 22:21:17.545 [INFO ] server.Main - User logged in: lubna
+2026-06-11 22:21:28.923 [INFO ] server.Main - Client connected: /127.0.0.1:58738
+2026-06-11 22:21:36.296 [INFO ] server.Main - Client connected: /127.0.0.1:58744
+2026-06-11 22:24:04.986 [INFO ] server.Main - Client connected: /127.0.0.1:62545
+2026-06-11 22:24:05.049 [INFO ] server.Main - User logged in: lubna
+2026-06-11 22:26:15.639 [INFO ] server.Main - Client connected: /127.0.0.1:57778
+2026-06-11 22:26:33.322 [INFO ] server.Main - Client connected: /127.0.0.1:60125
+2026-06-11 22:26:43.335 [INFO ] server.Main - Client connected: /127.0.0.1:60127
+2026-06-11 22:27:11.275 [INFO ] server.Main - Client connected: /127.0.0.1:60135
+2026-06-11 22:27:27.793 [INFO ] server.Main - Client connected: /127.0.0.1:60140
+2026-06-11 22:43:30.862 [INFO ] server.Main - Client connected: /127.0.0.1:60664
+2026-06-11 22:43:30.919 [INFO ] server.Main - User logged in: lubna
+2026-06-11 22:43:33.549 [INFO ] server.Main - Client connected: /127.0.0.1:60666
+2026-06-11 22:59:00.760 [INFO ] server.Main - Tables initialized.
+2026-06-11 22:59:00.849 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-11 22:59:00.865 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 22:59:00.868 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 22:59:37.943 [INFO ] server.Main - Client connected: /127.0.0.1:53108
+2026-06-11 22:59:38.037 [INFO ] server.Main - User logged in: lubna
+2026-06-11 22:59:41.277 [INFO ] server.Main - Client connected: /127.0.0.1:53110
+2026-06-11 23:01:40.734 [INFO ] server.Main - Client connected: /127.0.0.1:64093
+2026-06-11 23:01:40.791 [INFO ] server.Main - User logged in: lubna
+2026-06-11 23:01:52.349 [INFO ] server.Main - Client connected: /127.0.0.1:64095
+2026-06-11 23:40:01.727 [INFO ] server.Main - Client connected: /127.0.0.1:63286
+2026-06-11 23:40:01.915 [INFO ] server.Main - User logged in: emon
+2026-06-11 23:40:10.935 [INFO ] server.Main - Client connected: /127.0.0.1:63288
+2026-06-11 23:40:10.937 [ERROR] server.Main - Read error: enum constant CHECK_OWNER does not exist in class common.CommandType
+2026-06-11 23:40:31.811 [INFO ] server.Main - Tables initialized.
+2026-06-11 23:40:31.882 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-11 23:40:31.894 [INFO ] server.Main - Server starting on port 12345...
+2026-06-11 23:40:31.896 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-11 23:41:11.833 [INFO ] server.Main - Client connected: /127.0.0.1:52807
+2026-06-11 23:41:11.947 [INFO ] server.Main - User logged in: emon
+2026-06-11 23:41:19.224 [INFO ] server.Main - Client connected: /127.0.0.1:59839
+2026-06-11 23:41:32.102 [INFO ] server.Main - Client connected: /127.0.0.1:59841
+2026-06-11 23:44:30.887 [INFO ] server.Main - Client connected: /127.0.0.1:49669
+2026-06-11 23:44:44.554 [INFO ] server.Main - Client connected: /127.0.0.1:49677
+2026-06-12 00:12:22.869 [INFO ] server.Main - Client connected: /127.0.0.1:61909
+2026-06-12 00:12:23.040 [INFO ] server.Main - User logged in: lubna
+2026-06-12 00:12:25.559 [INFO ] server.Main - Client connected: /127.0.0.1:61911
+2026-06-12 00:16:11.674 [INFO ] server.Main - Tables initialized.
+2026-06-12 00:16:11.788 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-12 00:16:11.801 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 00:16:11.803 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 00:16:29.493 [INFO ] server.Main - Client connected: /127.0.0.1:56050
+2026-06-12 00:16:29.571 [INFO ] server.Main - User logged in: lubna
+2026-06-12 00:16:34.969 [INFO ] server.Main - Client connected: /127.0.0.1:56066
+2026-06-12 00:19:06.620 [INFO ] server.Main - Client connected: /127.0.0.1:49904
+2026-06-12 00:19:06.774 [INFO ] server.Main - Client connected: /127.0.0.1:49906
+2026-06-12 00:19:06.829 [INFO ] server.Main - Client connected: /127.0.0.1:49908
+2026-06-12 00:24:42.140 [INFO ] server.Main - Tables initialized.
+2026-06-12 00:24:42.215 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-12 00:24:42.226 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 00:24:42.229 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 00:24:53.124 [INFO ] server.Main - Client connected: /127.0.0.1:62109
+2026-06-12 00:24:53.212 [INFO ] server.Main - User logged in: lubna
+2026-06-12 00:24:59.673 [INFO ] server.Main - Client connected: /127.0.0.1:64616
+2026-06-12 00:25:05.283 [INFO ] server.Main - Client connected: /127.0.0.1:64634
+2026-06-12 00:53:42.201 [INFO ] server.Main - Tables initialized.
+2026-06-12 00:53:42.279 [INFO ] server.Main - Loaded 5 products from DB.
+2026-06-12 00:53:42.292 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 00:53:42.294 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 00:53:52.536 [INFO ] server.Main - Client connected: /127.0.0.1:55885
+2026-06-12 00:53:52.626 [INFO ] server.Main - User logged in: lubna
+2026-06-12 00:53:57.478 [INFO ] server.Main - Client connected: /127.0.0.1:53680
+2026-06-12 00:54:14.579 [INFO ] server.Main - Client connected: /127.0.0.1:53686
+2026-06-12 00:58:34.592 [INFO ] server.Main - Tables initialized.
+2026-06-12 00:58:34.682 [INFO ] server.Main - Loaded 6 products from DB.
+2026-06-12 00:58:34.692 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 00:58:34.694 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 00:58:50.379 [INFO ] server.Main - Client connected: /127.0.0.1:53051
+2026-06-12 00:58:50.454 [INFO ] server.Main - User logged in: lubna
+2026-06-12 00:58:55.203 [INFO ] server.Main - Client connected: /127.0.0.1:53053
+2026-06-12 00:59:59.204 [INFO ] server.Main - Tables initialized.
+2026-06-12 00:59:59.302 [INFO ] server.Main - Loaded 6 products from DB.
+2026-06-12 00:59:59.314 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 00:59:59.316 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 01:00:15.184 [INFO ] server.Main - Client connected: /127.0.0.1:53085
+2026-06-12 01:00:15.262 [INFO ] server.Main - User logged in: lubna
+2026-06-12 01:00:18.176 [INFO ] server.Main - Client connected: /127.0.0.1:53087
+2026-06-12 01:01:03.642 [INFO ] server.Main - Tables initialized.
+2026-06-12 01:01:03.735 [INFO ] server.Main - Loaded 6 products from DB.
+2026-06-12 01:01:03.746 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 01:01:03.748 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 01:01:20.494 [INFO ] server.Main - Client connected: /127.0.0.1:64877
+2026-06-12 01:01:20.572 [INFO ] server.Main - User logged in: lubna
+2026-06-12 01:01:28.425 [INFO ] server.Main - Client connected: /127.0.0.1:64879
+2026-06-12 01:02:38.403 [INFO ] server.Main - Tables initialized.
+2026-06-12 01:02:38.475 [INFO ] server.Main - Loaded 6 products from DB.
+2026-06-12 01:02:38.483 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 01:02:38.485 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 01:02:52.763 [INFO ] server.Main - Client connected: /127.0.0.1:62614
+2026-06-12 01:02:52.841 [INFO ] server.Main - User logged in: lubna
+2026-06-12 01:02:55.987 [INFO ] server.Main - Client connected: /127.0.0.1:62616
+2026-06-12 01:03:25.605 [INFO ] server.Main - Tables initialized.
+2026-06-12 01:03:25.686 [INFO ] server.Main - Loaded 6 products from DB.
+2026-06-12 01:03:25.696 [INFO ] server.Main - Server starting on port 12345...
+2026-06-12 01:03:25.697 [INFO ] server.Main - Server ready. Waiting for connections.
+2026-06-12 01:03:38.677 [INFO ] server.Main - Client connected: /127.0.0.1:59414
+2026-06-12 01:03:38.756 [INFO ] server.Main - User logged in: lubna
+2026-06-12 01:03:41.421 [INFO ] server.Main - Client connected: /127.0.0.1:59416
+2026-06-12 01:09:25.130 [INFO ] server.Main - Client connected: /127.0.0.1:50711
+2026-06-12 01:09:43.133 [INFO ] server.Main - Client connected: /127.0.0.1:50718
+2026-06-12 01:09:43.181 [INFO ] server.Main - User logged in: emon
+2026-06-12 01:09:55.006 [INFO ] server.Main - Client connected: /127.0.0.1:50720
+2026-06-12 01:10:04.051 [INFO ] server.Main - Client connected: /127.0.0.1:50725
+2026-06-12 01:10:09.934 [INFO ] server.Main - Client connected: /127.0.0.1:52505
+2026-06-12 01:10:50.414 [INFO ] server.Main - Client connected: /127.0.0.1:64454
+2026-06-12 01:10:53.672 [INFO ] server.Main - Client connected: /127.0.0.1:64457
+2026-06-12 01:11:26.207 [INFO ] server.Main - Client connected: /127.0.0.1:58949
+2026-06-12 01:11:53.007 [INFO ] server.Main - Client connected: /127.0.0.1:58951
+2026-06-12 01:11:53.102 [INFO ] server.Main - New user registered: emon2
+2026-06-12 01:11:58.085 [INFO ] server.Main - Client connected: /127.0.0.1:58954
+2026-06-12 01:12:00.542 [INFO ] server.Main - Client connected: /127.0.0.1:58956
+2026-06-12 01:12:20.645 [INFO ] server.Main - Client connected: /127.0.0.1:58966
+2026-06-12 01:12:24.998 [INFO ] server.Main - Client connected: /127.0.0.1:58969
+2026-06-12 01:12:30.069 [INFO ] server.Main - Client connected: /127.0.0.1:58971
+2026-06-12 01:12:37.496 [INFO ] server.Main - Client connected: /127.0.0.1:56071
+2026-06-12 01:12:47.396 [INFO ] server.Main - Client connected: /127.0.0.1:56073
+2026-06-12 01:13:18.313 [INFO ] server.Main - Client connected: /127.0.0.1:61347
+2026-06-12 01:13:18.364 [INFO ] server.Main - Client connected: /127.0.0.1:61349
+2026-06-12 01:13:18.411 [INFO ] server.Main - Client connected: /127.0.0.1:61351
